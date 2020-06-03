@@ -8,7 +8,7 @@ This project is performed to gain new insight for company development. I focused
 2. Inspecting correlation between products rating and boguht frequency
 3. Analyze features that give imapct on recommended indicator.
 
-## Medium Link : https://medium.com/@irfanespe/from-e-commerce-data-to-business-insight-5254b73caf06
+## Medium Link : https://medium.com/@irfanespe/from-e-commerce-data-to-business-insight-fd4cd4b7968
 
 ## Programming Language
 
